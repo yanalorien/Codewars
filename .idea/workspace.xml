@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7a16353-38ae-426e-9782-fa8ae6624e46" name="Default Changelist" comment="" />
+    <list default="true" id="d7a16353-38ae-426e-9782-fa8ae6624e46" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/isPalindrome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +46,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -62,6 +65,7 @@
       <workItem from="1606103037846" duration="741000" />
       <workItem from="1606145695122" duration="9000" />
       <workItem from="1609043802379" duration="799000" />
+      <workItem from="1609127263591" duration="741000" />
     </task>
     <servers />
   </component>
